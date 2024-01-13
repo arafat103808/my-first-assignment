@@ -55,3 +55,247 @@ font-weight: 700;
 .image{
     text-align: center;
 }
+.second-banner{
+    background-image:linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url("../resources/Vectorrr.png");
+    height: 600px;
+    margin: 80px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.second-banner-text{
+    color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+font-weight: 900;
+}
+.second-banner-description{
+    color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+}
+.btn-primary{
+    color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+background-color: #1a1524;
+border: none;
+
+}
+.place{
+    color: #F00;
+}
+.join-now{
+    display: inline-flex;
+padding: 16px 32px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border-radius: 8px;
+background: #F00;
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+}
+.join-button{
+    color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+margin-top: 50px;
+}
+.announce-section{
+    background-image:linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    height: 482px;
+    text-align: center;
+    padding-top: 80px;
+}
+.border-section{
+display: flex;
+justify-content: space-between;
+align-items: center;
+margin: 100px, auto;
+background: #FFF;
+height: 450px;
+margin-top:50px ;
+
+}
+.border-image{
+    border-radius: 463px;
+    border: 15px solid #F00 ;
+    padding: 20px;
+}
+
+.border-head{
+    color: #F00;
+    font-family: Inter;
+    font-weight: 500;
+}
+.border-middle-head{
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+}
+.border-text{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.year{
+    color: #F00;
+    font-weight: 700;
+}
+
+.year-text{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+}
+
+.gift-section{
+    align-items: center;
+    margin: 80px auto;
+    background: #FFF;
+   
+}
+.gift-head{
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+}
+.gift-title{
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+}
+.gift-description{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+}
+
+.three-product{
+    display: flex;
+    margin: 50px auto 20px;
+    gap: 24px;
+}
+.others-product{
+    display: flex;
+    margin-bottom: 25px;
+    gap: 24px;
+}
+.subscriber-section{
+    height: 500px;
+    text-align: center;
+    padding-top:80px;
+    border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);
+}
+.subscribe-head{
+    color: #070211;
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+}
+.subscribe text{
+    color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+
+}
+.subscribe-box{
+    width: 500px;
+    display: flex;
+    padding-left: 410px;
+}
+.email-field{
+    border: none;
+    outline: none;
+    margin: 0 auto;
+    width: 500px;
+    padding: 20px;
+    border-radius: 50px 0px 0px 50px;
+    background: #FFF;
+}
+
+.subscribe-button{
+   margin-left: 0px;
+font-family: Inter;
+padding: 19px;
+border-radius: 0px 50px 50px 0px;
+background: #F00;
+
+}
+
+.footer-section{
+    background: #070211;
+    margin: 60px auto 0;
+    height: 500px;
+    padding: 100px 160px 0 120px;
+}
+.left{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+}
+.right{
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+}
+.call{
+    display: flex;
+    align-items: center;
+    font-family: Inter;
+}
+.website{
+    display: flex;
+    align-items: center;
+}
+.footer-text{
+    display: flex;
+    justify-content:space-between ;
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+}
+.call-image{
+    width: 24px;
+    height: 24px;
+}
+
+.line{
+    border: 2px solid rgba(255, 255, 255, 0.15);
+}
+.social-icons{
+    padding: 40px;
+    text-align: center;
+}
+.last-step{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+font-weight: 500;
+padding-top: 50px;
+display: flex;
+justify-content: space-between;
+}
